@@ -1,0 +1,6 @@
+.image-item{
+    width:20%;
+    float:left;
+    cursor:pointer;
+    padding:10px 15px;
+}
